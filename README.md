@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harjeetsingh-0071
 - 👀 I’m interested in Codig and tech stuff
 - 🌱 I’m currently studying master's at Vilnius Tech University, Lithuania
-- 💞️ I’m looking to rinker with amchine learning codes
+- 💞️ I’m looking to tinker with mchine learning codes
 - 📫 mail me at harichan1771@gmail.com
 
 <!---
